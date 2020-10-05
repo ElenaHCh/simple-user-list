@@ -1,4 +1,4 @@
-# new-print
+# simple user list
 package Elena;
 
 import java.time.Instant;
